@@ -120,6 +120,7 @@ end
     elsif draw?
       puts "Cats Game!"
     end
+    "Cats Game!"
   end
 
 
